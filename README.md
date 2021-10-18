@@ -31,4 +31,7 @@ g++ avg.cpp -o app -O2
 Become a graphic application.
 
 ## Thanks to
-[machitgarha](https://github.com/machitgarha)
+#### [MaChitgarha](https://github.com/machitgarha)
+
+## License
+Licensed under GPLv3. See [LICENSE.md](https://github.com/MohammadRezaNouri/Calculate-the-average/blob/master/LICENSE.md).
