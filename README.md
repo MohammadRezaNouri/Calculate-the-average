@@ -29,3 +29,6 @@ g++ avg.cpp -o app -O2
 
 ## In the future
 Become a graphic application.
+
+## Thanks to
+[machitgarha](https://github.com/machitgarha)
